@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space Invaders
 
 Space Invaders game created using JavaScript.
 
